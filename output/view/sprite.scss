@@ -1,0 +1,84 @@
+%svg-common {
+	background: url("svg/sprite.view.svg") no-repeat;
+}
+
+.svg-ico-chk-select {
+	@extend %svg-common;
+	background-position: 51.42857142857143% 0;
+}
+
+.svg-ico-chk-select-dims {
+	width: 35px;
+	height: 33px;
+}
+
+.svg-ico-chk-selected-s {
+	@extend %svg-common;
+	background-position: 0 52.17391304347826%;
+}
+
+.svg-ico-chk-selected-s-dims {
+	width: 35px;
+	height: 33px;
+}
+
+.svg-ico-down {
+	@extend %svg-common;
+	background-position: 49.29577464788732% 48.648648648648646%;
+}
+
+.svg-ico-down-dims {
+	width: 34px;
+	height: 28px;
+}
+
+.svg-ico-no-grey {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-ico-no-grey-dims {
+	width: 33px;
+	height: 33px;
+}
+
+.svg-ico-pen {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-ico-pen-dims {
+	width: 34px;
+	height: 33px;
+}
+
+.svg-ico-up {
+	@extend %svg-common;
+	background-position: 100% 44.5945945945946%;
+}
+
+.svg-ico-up-dims {
+	width: 34px;
+	height: 28px;
+}
+
+.svg-icon-reset {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-icon-reset-dims {
+	width: 36px;
+	height: 36px;
+}
+
+.svg-x {
+	@extend %svg-common;
+	background-position: 44% 95.83333333333333%;
+}
+
+.svg-x-dims {
+	width: 30px;
+	height: 30px;
+}
+
